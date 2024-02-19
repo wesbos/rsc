@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708220239152,
+      "tag": "0000_cloudy_firebird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708357716899,
+      "tag": "0001_past_tusk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708358716335,
+      "tag": "0002_strong_mastermind",
+      "breakpoints": true
+    }
+  ]
+}
